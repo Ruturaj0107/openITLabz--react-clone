@@ -32,16 +32,16 @@ A modern and responsive educational training website recreated using React.js.
 
 ## 📂 Project Structure
 
-src/
-├── landingPage/
-│   ├── about/
-│   ├── blog/
-│   ├── contact/
-│   ├── course/
-│   ├── home/
-│   └── resource/
-├── index.js
-└── index.css
+src/\
+├── landingPage/\
+│   ├── about/\
+│   ├── blog/\
+│   ├── contact/\
+│   ├── course/\
+│   ├── home/\
+│   └── resource/\
+├── index.js\
+└── index.css\
 
 ## ⚙️ Installation
 
